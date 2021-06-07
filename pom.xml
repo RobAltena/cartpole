@@ -10,7 +10,7 @@
     <properties>
         <nd4j.version>1.0.0-SNAPSHOT</nd4j.version>
         <rl4j.version>1.0.0-SNAPSHOT</rl4j.version>
-        <logback.version>1.1.7</logback.version>
+        <logback.version>1.2.0</logback.version>
 
         <nd4j.backend>nd4j-native-platform</nd4j.backend>
     </properties>
